@@ -102,7 +102,10 @@ Aby zainstalować wymaganie biblioteki:
 <a name="installation"></a>
 ### Uruchomienie
 
-Aby uruchomić program, uruchom plik main.py.
+Aby uruchomić program, otwórz konsolę w folderze z programem i uruchom komendę:
+  ```sh
+  python main.py
+  ```
 
 
 <p align="right">(<a href="#readme-top">powrót na górę</a>)</p>
