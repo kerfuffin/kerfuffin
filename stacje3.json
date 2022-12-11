@@ -1,0 +1,38 @@
+[
+    {
+        "name": "PmSopBiPlowc",
+        "lat": "54.43451",
+        "lon": "18.57125",
+        "city": "Sopot"
+    },
+    {
+        "name": "PmGdaPowWars",
+        "lat": "54.353336",
+        "lon": "18.635283",
+        "city": "Gdańsk"
+    },
+    {
+        "name": "PmGdaWyzwole",
+        "lat": "54.400833",
+        "lon": "18.657497",
+        "city": "Gdańsk"
+    },
+    {
+        "name": "PmGdyPorebsk",
+        "lat": "54.560836",
+        "lon": "18.493331",
+        "city": "Gdynia"
+    },
+    {
+        "name": "PmGdaLeczkow",
+        "lat": "54.380279",
+        "lon": "18.620274",
+        "city": "Gdańsk"
+    },
+    {
+        "name": "PmGdySzafran",
+        "lat": "54.465758",
+        "lon": "18.464911",
+        "city": "Gdynia"
+    }
+]

@@ -1,0 +1,10 @@
+matplotlib==3.5.1
+PyQt5==5.15.4
+PyQt5-sip==12.9.0
+numba
+numpy
+shutil
+meteostat
+matplotlib-backend-qtquick
+pandas
+scipy
